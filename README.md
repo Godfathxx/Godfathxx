@@ -8,3 +8,4 @@
 Godfathxx/Godfathxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/Godfathxx"><img src="https://api.daily.dev/devcards/cdb9a2b4b2d04c8aab2cd82cafc2defa.png?r=2mv" width="400" alt="Shreyash Joshi's Dev Card"/></a>

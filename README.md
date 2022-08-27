@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Godfathxx
 - 👀 I’m interested in .Software Development and Cyber Securities
-- 🌱 I’m currently learning .Python,Java,CSS,HTML
+- 🌱 I’m currently learning .Python,Java,C,C++,HTML
 - 💞️ I’m looking to collaborate on .Diffrent Types of Projects Regarding My Intrests
 - 📫 How to reach me .Github
 

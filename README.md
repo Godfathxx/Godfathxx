@@ -1,4 +1,4 @@
-<a href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"></a>
+<a align="center" href="https://github.com/godfathxx" target="_self"><img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"></a>
 <h1 align="center">Hi 👋, I'm Shreyash Joshi</h1>
 <h3 align="center">Web Developer/Software Engineer</h3>
 

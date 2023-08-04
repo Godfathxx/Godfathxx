@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Godfathxx
-- 👀 I’m interested in .Software Development and Cyber Securities
-- 🌱 I’m currently learning .Python,Java,C,C++,HTML
-- 💞️ I’m looking to collaborate on .Diffrent Types of Projects Regarding My Intrests
-- 📫 How to reach me .Github
-
 <h1 align="center">Hi 👋, I'm Shreyash Joshi</h1>
 <h3 align="center">Web Developer/Software Engineer</h3>
 

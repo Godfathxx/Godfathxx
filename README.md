@@ -5,6 +5,7 @@
 <a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank"><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"></a>
 
 - 🏡 Live in India
+- 🔭  Curently working on Full-Stack/Android Development
 - 📫 How to reach me **shreyashjoshi3002@gmail.com**
 - ⚡ Fun fact **"**Not a nerd**"**
 

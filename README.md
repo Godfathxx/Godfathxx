@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreyash Joshi</h1>
 <h3 align="center">Web Developer/Software Engineer</h3>
 
+<a href="https://www.google.com/logos/2010/pacman10-i.html">
+
 - 🏡 Live in India
 - 📫 How to reach me **shreyashjoshi3002@gmail.com**
 - ⚡ Fun fact **"**Not a nerd**"**
